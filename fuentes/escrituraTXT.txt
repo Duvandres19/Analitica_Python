@@ -1,0 +1,1 @@
+hola mundo, Primer archivo txt creado desde python.
