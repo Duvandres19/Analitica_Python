@@ -1,7 +1,5 @@
+primera linea de texto
 Curso Ciencia de datos con Python
-
-
 ---Ejercicio Basico---
-
-
 Probando lectura de archivo de texto!!
+Ultima linea de texto

@@ -16,3 +16,6 @@ MANEJO ARCHIVOS XLS
 
 https://pythonista.io/cursos/py121/xml-con-elementtree
 https://www.analyticslane.com/2018/07/16/archivos-json-con-python/
+
+scikit learn
+https://ipython-books.github.io/81-getting-started-with-scikit-learn/
