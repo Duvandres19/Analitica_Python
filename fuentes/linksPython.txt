@@ -19,3 +19,16 @@ https://www.analyticslane.com/2018/07/16/archivos-json-con-python/
 
 scikit learn
 https://ipython-books.github.io/81-getting-started-with-scikit-learn/
+
+nltk 
+https://likegeeks.com/es/tutorial-de-nlp-con-python-nltk/#Instalar-NLTK
+
+aprendamachinelearning.com
+
+webScraping
+Analisis de sentimientos https://www.aprendemachinelearning.com/ejercicio-nlp-cuentos-de-hernan-casciari-python-espanol/
+sistema de recomendacion  https://www.aprendemachinelearning.com/sistemas-de-recomendacion/
+
+ https://nataliaacevedo.com/
+https://www.codigofuente.org/clasificacion-texto-python/
+http://www.diegocalvo.es/tutorial-de-mongodb-con-ejemplos/
